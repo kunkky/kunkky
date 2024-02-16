@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ademuyiwa Adekunle Idowu
 - 👀 I’m a web developer
-- 🌱 I’m currently learning reactjs 
-- 💞️ I’m looking to collaborate on web development using html, css, php and laravel
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on web development using html, css, php, react, next js and laravel
 - 📫 How to reach me kunkkykukky@gmail.com or on whats app:08104048887
 
 <!---
